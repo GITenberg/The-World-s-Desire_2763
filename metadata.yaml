@@ -1,0 +1,57 @@
+_repo: The-World-s-Desire_2763
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+  - agent_name: Haggard, H. Rider (Henry Rider)
+    aliases:
+    - Haggard, Henry Rider
+    - Haggard, Rider
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '365'
+    url: http://www.gutenberg.org/2009/agents/365
+    wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
+description: "The World's Desire is a classic fantasy novel first published in 1890\
+  \ and written by H. Rider Haggard and Andrew Lang. Its importance was recognised\
+  \ in its later revival in paperback by Ballantine Books as the fortieth volume of\
+  \ the celebrated Ballantine Adult Fantasy series in January 1972.\nThe World's Desire\
+  \ is the story of the hero Odysseus, mainly referred to as \"the Wanderer\" for\
+  \ the bulk of the novel. Odysseus returns home to Ithaca after his second, unsung\
+  \ journey. He is hoping to find a \"home at peace, wife dear and true and his son\
+  \ worthy of him\". Unfortunately, he does not find any of the three, instead his\
+  \ home is ravaged by a plague and his wife Penelope has been slain. As he grieves,\
+  \ he is visited by an old flame, Helen of Troy, for whom the novel is named. Helen\
+  \ leads him to equip himself with the Bow of Eurytus and embark on his last journey.\
+  \ This is an exhausting journey in which he encounters a Pharaoh who is wed to a\
+  \ murderess beauty, a holy and helpful priest, and his own fate.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2006-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2763'
+  wikidata: Q4421898
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Helen, of Troy, Queen of Sparta -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Greece -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Odysseus, King of Ithaca (Mythological character) -- Fiction'
+- GITenberg
+title: The World's Desire
+url: http://www.gutenberg.org/ebooks/2763
+wikipedia:
+- https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B8%D1%82%D0%B0%D0%BB%D0%B5%D1%86_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://ar.wikipedia.org/wiki/%D8%B1%D8%BA%D8%A8%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85
+- https://en.wikipedia.org/wiki/The_World%27s_Desire
