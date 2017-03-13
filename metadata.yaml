@@ -1,5 +1,8 @@
 _repo: The-World-s-Desire_2763
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Lang, Andrew
@@ -32,6 +35,8 @@ description: "The World's Desire is a classic fantasy novel first published in 1
   \ This is an exhausting journey in which he encounters a Pharaoh who is wed to a\
   \ murderess beauty, a holy and helpful priest, and his own fate.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2763#The-World-s-Desire
 gutenberg_issued: '2006-04-04'
 gutenberg_type: Text
 identifiers:
